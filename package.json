@@ -1,0 +1,24 @@
+{
+  "name": "hexo-migrator-pelican",
+  "version": "0.1.0",
+  "description": "Migrate your blog from pelican to Hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elprup/hexo-migrator-pelican.git"
+  },
+  "keywords": [
+    "pelican",
+    "hexo",
+    "migrator"
+  ],
+  "author": "elprup <awayyao@gmail.com> (http://blog.elprup.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elprup/hexo-migrator-pelican/issues"
+  },
+  "homepage": "https://github.com/elprup/hexo-migrator-pelican#readme"
+}
