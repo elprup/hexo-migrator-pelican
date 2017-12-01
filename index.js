@@ -38,6 +38,7 @@ hexo.extend.migrator.register('pelican', function(args, callback){
                        'Modified': 'updated',
                        'Category': 'categories',
                        'Tags': 'tags',
+                       'Summary': 'description',
                        'Slug': 'permalink'}
 
     rl.on('line', function(line) {
